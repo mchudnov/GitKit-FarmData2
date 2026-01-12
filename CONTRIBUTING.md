@@ -64,7 +64,7 @@ Tickets in the [Issue Tracker] that are tagged _bug_ or _enhancement_ describe i
 
 #### Other Thoughts ####
 
-The above is not an exhaustive list of ways to participate in FarmData2. For some other ideas check out [50 Ways to be a FOSSer](http://foss2serve.org/index.php/50_Ways_to_be_a_FOSSer). If anything there seems interesting or if you have other ideas of your own please get in touch and we will be happy to have a discussion about how you might get involved.
+The above is not an exhaustive list of ways to participate in FarmData2. For some other ideas check out [50 Ways to be a FOSSer](http://foss2serve.org/index.php/50_Ways_to_be_a_FOSSer). If anything on there seems interesting or if you have other ideas of your own please get in touch and we will be happy to have a discussion about how you might get involved.
 
 ## Technology Onboarding ##
 
